@@ -52,7 +52,7 @@ const Socials = () => {
 					/>
 				</a>
 			</Link>
-			<Link href="https://twitter.com/battle_saga?s=21">
+			<Link href="https://twitter.com/BattleSagaio">
 				<a target="_blank">
 					<Image
 						src={TwitterLogo}
